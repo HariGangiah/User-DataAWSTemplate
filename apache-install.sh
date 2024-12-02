@@ -32,6 +32,7 @@ sudo echo '<!DOCTYPE html>
 				<h1>Welcome!</h1>
     				<h1>This Web-Server is Created by HARI</h1>
 				<h2>Dedicated to Lavi</h2>
+    				<p>:-)<p>
 			</div>
 		</div>
 	</body>
@@ -39,11 +40,11 @@ sudo echo '<!DOCTYPE html>
 
 <style>
 	body {
-		background-color: #34333d;
+		background-color: #000000;
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		font-family: Inter;
+		font-family: Times New Roman;
 		padding-top: 128px;
 	}
 
@@ -57,7 +58,7 @@ sudo echo '<!DOCTYPE html>
 		align-items: flex-start;
 		padding: 48px 48px 48px 48px;
 		box-shadow: 0px 1px 32px 11px rgba(38, 37, 44, 0.49);
-		background-color: #5d5b6b;
+		background-color: #9370db;
 		overflow: hidden;
 		align-content: flex-start;
 		flex-wrap: nowrap;
@@ -70,13 +71,13 @@ sudo echo '<!DOCTYPE html>
 		width: 100%;
 		height: auto; /* 144px */
 		position: relative;
-		color: #ffffff;
+		color: #000000;
 		line-height: 1.2;
 		font-size: 40px;
 	}
 	.container p {
 		position: relative;
-		color: #ffffff;
+		color: #000000;
 		line-height: 1.2;
 		font-size: 18px;
 	}

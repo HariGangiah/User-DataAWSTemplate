@@ -79,7 +79,7 @@ sudo echo '<!DOCTYPE html>
 		position: relative;
 		color: #000000;
 		line-height: 1.2;
-		font-size: 18px;
+		font-size: 22px;
 	}
 </style>
 ' > /var/www/html/index.html

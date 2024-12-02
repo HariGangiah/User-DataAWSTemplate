@@ -29,8 +29,9 @@ sudo echo '<!DOCTYPE html>
 	<body>
 		<div class="wrapper">
 			<div class="container">
-				<h1>Welcome! An Apache web server has been started successfully.</h1>
-				<p>Replace this with your own index.html file in /var/www/html.</p>
+				<h1>Welcome!</h1>
+    				<h1>This Web-Server is Created by HARI</h1>
+				<h2>Dedicated to Lavi</h2>
 			</div>
 		</div>
 	</body>

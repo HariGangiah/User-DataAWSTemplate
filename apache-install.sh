@@ -31,7 +31,7 @@ sudo echo '<!DOCTYPE html>
 			<div class="container">
 				<h1>Welcome!</h1>
     				<h1>This Web-Server is Created by HARI</h1>
-				<h2>Dedicated to Lavi</h2>
+				<h2>Server?</h2>
     				<p>:-)<p>
 			</div>
 		</div>
